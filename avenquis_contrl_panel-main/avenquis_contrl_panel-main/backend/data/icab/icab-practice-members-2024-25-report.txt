@@ -1,0 +1,16 @@
+ICAB PRACTICE MEMBER EXTRACTION
+===============================
+
+Total firm-linked members: 728
+With firm address: 727
+With mobile: 672
+With email: 719
+
+KNOWN SAMPLE CHECKS
+===================
+
+1842: {"memberName":"Abdullah, Asif Mohammed","membershipNo":"1842","membershipType":"FCA","firmName":"A. M. Abdullah & Co.","firmAddress":"Kabbakash Super Market, 8th Floor, Suit-16, Plot-3D, Kawran Bazar, Tejgaon, Dhaka-1215","mobile":"8801719332484","email":"asifdu087@gmail.com"}
+
+527: {"memberName":"Abedin, Kamrul","membershipNo":"527","membershipType":"FCA","firmName":"M J Abedin & Co.","firmAddress":"National Plaza (3rd floor), 109 Bir Uttam C.R. Datta Road, Dhaka-1205","mobile":null,"email":"audit@mjabedin.com"}
+
+DATABASE WAS NOT MODIFIED.

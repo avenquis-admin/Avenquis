@@ -1,0 +1,151 @@
+ICAB FIRM NORMALIZATION REPORT
+==============================
+
+Members: 728
+Unique firm names before: 284
+Unique firms after normalization: 245
+Variant groups found: 34
+
+VARIANT GROUPS
+==============
+
+KEY: mjabedinandco
+  - M J Abedin & Co
+  - M J Abedin & Co.
+  - M. J. Abedin & Co.
+
+KEY: basubanerjeenathandco
+  - Basu Banerjee Nath & Co.
+  - Basu Banerjee nath & Co.
+
+KEY: attalukderandco
+  - A. T. Talukder & Co.
+  - A.T. Talukder & Co.,
+
+KEY: mzislamandco
+  - M Z Islam & Co.
+  - M. Z. Islam & Co.
+
+KEY: islamaftabkamrulandco
+  - ISLAM AFTAB KAMRUL & CO.
+  - Islam Aftab Kamrul & Co.
+  - Islam Aftab Kamrul & Co.,
+
+KEY: marhkandco
+  - MARHK & CO.
+  - MARHK & Co.
+
+KEY: hodavasichowdhuryandco
+  - Hoda Vasi Chowdhury & Co
+  - Hoda Vasi Chowdhury & Co.
+
+KEY: tohakhanzamanandco
+  - Toha Khan Zaman & Co
+  - Toha Khan Zaman & Co.
+
+KEY: gkibriaandco
+  - G Kibria & Co.
+  - G. Kibria & Co.
+
+KEY: shkhanandco
+  - S H Khan & Co.
+  - S. H. Khan & Co.
+
+KEY: irshadullahpatwaryandco
+  - Irshadullah Patwary & Co
+  - Irshadullah Patwary & Co.
+
+KEY: skbaruaandco
+  - S K Barua & Co.
+  - S. K. Barua & Co.
+
+KEY: ahoqueandco
+  - A Hoque & Co.
+  - A. Hoque & Co.
+
+KEY: kmhasanandco
+  - K M Hasan & Co.
+  - K. M. Hasan & Co.
+
+KEY: anilsalamidrisandco
+  - ANIL SALAM IDRIS & Co.
+  - Anil Salam Idris & Co.
+
+KEY: aqasemandco
+  - A Qasem & Co.
+  - A. Qasem & CO.
+  - A. Qasem & Co.
+
+KEY: mrhdeyandco
+  - MRH DEY & CO.
+  - MRH Dey & Co.
+
+KEY: akazadandco
+  - A K Azad & Co.
+  - A. K. Azad & Co.
+  - A.K.Azad & Co.
+
+KEY: gbiswasandco
+  - G Biswas & Co.
+  - G Biswas & Co.,
+
+KEY: srboseandco
+  - S R Bose & Co.
+  - S. R. Bose & Co.
+
+KEY: akhterabbaskhanandco
+  - AKHTER ABBAS KHAN & CO.
+  - Akhter Abbas Khan & Co.
+
+KEY: nurulfarukhasanandco
+  - Nurul Faruk Hasan & Co
+  - Nurul Faruk Hasan & Co.
+
+KEY: gnabiandco
+  - G Nabi & Co.
+  - G. Nabi & Co.
+
+KEY: shirazkhanbasakandco
+  - Shiraz Khan Basak & Co
+  - Shiraz Khan Basak & Co.
+
+KEY: akhtaramirandco
+  - AKHTAR AMIR & CO.
+  - Akhtar Amir & Co.
+
+KEY: ahmedmashuqueandco
+  - AHMED MASHUQUE & CO.
+  - Ahmed Mashuque & Co.
+
+KEY: thussainandco
+  - T Hussain & Co.
+  - T. Hussain & Co.
+
+KEY: amatinandco
+  - A Matin & Co.
+  - A. Matin & Co.
+
+KEY: juahmedandco
+  - J U Ahmed & Co.
+  - J. U. Ahmed & Co.
+
+KEY: kmalamandco
+  - K M Alam & Co.
+  - K. M. Alam & Co.
+  - K.M Alam & Co.
+
+KEY: snehasishmahmudandco
+  - Snehasish Mahmud & Co
+  - Snehasish Mahmud & Co.
+
+KEY: srislamandco
+  - S. R. Islam & Co.
+  - S.R. Islam & Co.
+
+KEY: hmenamandco
+  - H M Enam & Co.
+  - H. M. Enam & Co.
+
+KEY: shazzadandco
+  - SHAZZAD & CO.
+  - Shazzad & Co.

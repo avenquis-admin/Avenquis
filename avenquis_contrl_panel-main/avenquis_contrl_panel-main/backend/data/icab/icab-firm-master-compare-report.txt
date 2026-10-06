@@ -1,0 +1,262 @@
+ICAB OFFICIAL FIRM MASTER COMPARISON
+====================================
+
+Official firm master count: 0
+Member-derived normalized firms: 245
+Member-derived names not matched to master: 245
+Official firms without matched practice member: 0
+
+MEMBER-DERIVED ONLY
+===================
+
+- A K Deb & Co.
+- A K Joaddar & Co.
+- A Mannan & Co.
+- A Quasem & Co.
+- A. B. Saha & Co.
+- A. Hoque & Co.
+- A. K. Azad & Co.
+- A. M. Abdullah & Co.
+- A. Matin & Co.
+- A. Qasem & Co.
+- A. Salma & Co.
+- A. T. Talukder & Co.
+- A. Wahab & Co.
+- ACNABIN
+- AMAL & LEENA
+- ARTISAN
+- Abdullah Tarique
+- Abedin M Joynal
+- Adhikari Roy & Co.
+- Ahamed Shamim & Co.
+- Ahmad & Akhtar
+- Ahmed Khan & Co.
+- Ahmed Mashuque & Co.
+- Ahmed Masum & Co.
+- Ahmed Sheikh Roy & Co.
+- Ahmed Sultan & Co.
+- Ahmed Yusuf & Co.
+- Ahmed Zaker & Co.
+- Ahmmed Hoq Siddiqui & Co.
+- Ahsan Atik & Co.
+- Ahsan Kamal Sadeq & Co.
+- Ahsan Manzur & Co.
+- Ahsan Qamrul & Co.
+- Ahsan Zamir & Co.
+- Ainun Nahar & Co.
+- Akhtar Amir & Co.
+- Akhter Abbas Khan & Co.
+- Alam M. Zaman & Co.
+- Ali Chowdhury & Co.
+- Ali Zahir Ashraf & Co.
+- Amin Hussain & Co.
+- Anika Sultana & Co.
+- Anil Salam Idris & Co.
+- Anisur Rahman & Co.
+- Arun & Co.
+- Arun & Company
+- Ashraf Uddin & Co.
+- Ashraful Haque Nabi & Co.
+- Ata Khan & Co.
+- Atik & Wahid
+- Atik Khaled Chowdhury
+- Ayub & Mahmood
+- Azad Abul Kalam & Co.
+- Aziz Halim Khair Choudhury
+- Aziz Halim Khair Chowdhury
+- B Maksuda & Company
+- B. C. Gupta & Company
+- Bakhtiar Israfil & Co.
+- Basu Banerjee nath & Co.
+- Biswas Nirmal & Co
+- Bokhteyar Humayun & Co.
+- CHOWDHURY & CO.
+- Chowdhury Bhattacharjee & Co.
+- Chowdhury Emdad & Co.
+- Chowdhury Hossain Rashid & Co.
+- Das Chowdhury Dutta & Co.
+- Das Parbir & Co.
+- Dewan Nazrul Islam & Co.
+- Dutta & Co.
+- EMA Squared
+- F Rahman & Co.
+- FAMES & R
+- Farhan Mohammed
+- Farhana Islam & Co.
+- Farhana Nasrin & Co.
+- Fazlul Hoque & Co.
+- Fouz Ilahi & Co.
+- G Biswas & Co.,
+- G. Kibria & Co.
+- G. Mostafa & MWC
+- G. Nabi & Co.
+- H. M. Enam & Co.
+- HASAN HOSSEIN & Co.
+- Habib Sarwar Bhuiyan & Co.
+- Hadee Lutful & Co.
+- Hafiz Ahmed & Co.
+- Hamidur Rahman & Co.
+- Hanif & Arif
+- Haque Fazlul & Co.
+- Haque Shah Alam Mansur & Co.
+- Hasan Mohin
+- Hoda Vasi Chowdhury & Co.
+- Hoque Bhattacharjee Das & Co.
+- Hoque Bhattacharjee Das Co.
+- Hossain & Hossain
+- Hossain Billal & Co.
+- Hossain Chowdhury & Co.
+- Hossain Mosharraf & Co.
+- Hossain Mumlook & Co.
+- Hossen Delwar & Co.
+- Howladar Yunus & Co.
+- Howlader Maria & Co.
+- Huda & Co.
+- Huda Hossain & Co.
+- Hussain Farhad & Co.
+- Hussain Khaja & Co.
+- Idris Muhammad & Co.
+- Imrul Kayas & Co.
+- Irshadullah Patwary & Co.
+- Islam & Co.
+- Islam Aftab Kamrul & Co.,
+- Islam Hoque Hanif & Co.
+- Islam Jahid & Co.
+- Islam Quazi Shafique & Co.
+- J Mandal & Co.
+- J. Fahad & Co.
+- J. U. Ahmed & Co.
+- JD & Co.
+- Jakir Hossain & Co.
+- Jayed & Co.
+- Jobair Satter & Co.
+- K K CHAKRABORTY & CO.
+- K S R & Co.
+- K. Abhijit & Co.
+- K. M. Alam & Co.
+- K. M. Hasan & Co.
+- KHAN Ayub
+- Kamal Ahmed & Co.
+- Kazi Zahir Khan & Co.
+- Khan Akber & Co.
+- Khan Wahab Shafique Rahman & Co.
+- Khandaker Mamun & Co.
+- M A Fazal & Co.
+- M A Mallik & Co.
+- M A Zaman & Co.
+- M Ahmed & Co.
+- M Hannan & Co.
+- M I Chowdhury & Co.
+- M L H Chowdhury & Co.
+- M M Hossain & Co.
+- M M Rahman & Co.
+- M M Yasin
+- M N Islam & Co.
+- M R Hosain & Co.
+- M Rashid Zaman & Co.
+- M. A. Salam & Co.
+- M. EKLAS & CO.
+- M. Islam Bhuiyan & Co.
+- M. J. Abedin & Co.
+- M. S. Salekin & Co.
+- M. SHAHIDUL ISLAM & CO.
+- M. Solaiman & Co.
+- M. Z. Islam & Co.
+- MABS & J Partners
+- MARHK & Co.
+- MMH & Co.
+- MRH Dey & Co.
+- MZ Chowdhury & Co.
+- Mahamud Sabuj & Co.
+- Mahfel Haq & Co.
+- Mahfel Huq & Co.
+- Mak & Co.
+- Malek Siddique Wali
+- Malek Siddiqui Wali
+- Masih Muhith Haque & Co.
+- Masrur Imtiaz & Co.
+- Masud Altaf & Co.
+- Masud Muhammad & Co.
+- Mizan Islam & Co.
+- Mohammad A Zaman
+- Mollah Quadir Yusuf & Co.
+- Mostafa Kamal & Co.
+- Mowla Mohammad & Co.
+- Muhammad Shaheedullah & Co.
+- Muklesur Rahman & Co.
+- Mustaid Murshed & Co.
+- N U Ahmed & Co.
+- N. K. Roy & Co.
+- Nasir Mohammad & Co.
+- Nayan Mia & Co.
+- Nurul Faruk Hasan & Co.
+- Nurul Faruk Hasan & Company
+- OCTOKHAN
+- Ojha & Biswas Co.
+- Pinaki & Company
+- R A Khan & Co.
+- R K Chowdhury & Co.
+- Rahman Anis & Co.
+- Rahman Kashem & Co.
+- Rahman Khalil & Co.
+- Rahman Mostafa Alam & Co.
+- Rahman Mustafiz & Co.
+- Rahman Mustafiz Haq & Co.
+- Rahman Rahman Huq
+- Rahman Sayd Zillur & Co.
+- Rahman Thakur & Co.
+- Rahman Tuhin & Co.
+- Ramiz & Co.
+- Razzaque & Co.
+- Redwan Rahman & Co.
+- Rejaul Karim & Co.
+- Rejual Karim & Co.
+- Rojina Akhter & Co.
+- S Ahmed & Co.
+- S Javed & Co.
+- S M Rafique & Co.
+- S M Zakaria & Co.
+- S. F. Ahmed & Co.
+- S. Gupta & Co.
+- S. H. Khan & Co.
+- S. K. Barua & Co.
+- S. R. Bose & Co.
+- S. R. Islam & Co.
+- S. Rahman & Co.
+- S.P. Chowdhury & Co.
+- SAHA SAZIB KUMAR & CO.
+- SHAHA & Company
+- SK RAMAN & CO.
+- SKZ ISLAM & CO.
+- SOHEL RANA & CO.
+- Sadhan Das & Co.
+- Saha Baidda Nath & Co.
+- Saif Kashem & Co.
+- Saiful Islam & Co.
+- Salam & Co.
+- Sarder Murshed & Co.
+- Shafiq Basak & Co.
+- Shafiq Mizan Rahman & Augustine
+- Shafiqul Alam & Co.
+- Shameem Khaled Salahuddin & Co.
+- Shazzad & Co.
+- Shekh Zinnah & Co.
+- Shiraz Khan Basak & Co.
+- Shubhankar & Co.
+- Siddiqua Ayesha
+- Snehasish Mahmud & Co.
+- Syful Shamsul Alam & Co.
+- T. Hussain & Co.
+- Tasnuva Mahedi Bhola
+- Tofayel Ahmed & Co.
+- Toha Khan Zaman & Co.
+- Uzzal Nandi & Co.
+- ZAHUR & MOSTAFIZ
+- Zabed Mridha & Co.
+- Zoha Zaman Kabir Rashid & Co.
+
+OFFICIAL MASTER ONLY
+====================
+
+
+DATABASE WAS NOT MODIFIED.

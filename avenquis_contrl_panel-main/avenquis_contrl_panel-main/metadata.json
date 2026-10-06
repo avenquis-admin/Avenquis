@@ -1,0 +1,6 @@
+{
+  "name": "Avenquis Control Panel",
+  "description": "Platform-owner administration, governance, and AI operations suite for Avenquis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

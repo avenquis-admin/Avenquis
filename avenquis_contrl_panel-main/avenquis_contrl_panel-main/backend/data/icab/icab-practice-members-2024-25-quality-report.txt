@@ -1,0 +1,25 @@
+ICAB DATA QUALITY AUDIT
+=======================
+
+Input records: 728
+Validated records: 728
+
+Duplicate membership no: 0
+Duplicate identity: 2
+Invalid membership type: 0
+Suspicious membership no: 0
+Suspicious member name: 0
+Suspicious firm name: 0
+Missing firm address: 1
+Missing mobile: 56
+Invalid mobile: 0
+Missing email: 9
+Invalid email: 0
+
+IMPORTANT
+=========
+
+Missing mobile/email/address is not automatically treated as bad data.
+Only duplicate IDs and structurally suspicious records are excluded from validated output.
+
+DATABASE WAS NOT MODIFIED.

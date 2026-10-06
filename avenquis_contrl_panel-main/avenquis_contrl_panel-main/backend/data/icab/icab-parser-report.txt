@@ -1,0 +1,37 @@
+ICAB PARSER REPORT
+==================
+
+Parsed firms: 4
+Parsed members: 0
+Members without membership number: 0
+
+FIRST 30 FIRMS
+==============
+
+1. (Formerly Hossain Mosharraf & Co., Chartered Accountants)
+   Address: House No. Kha -33 Sahjadpur (7th Floor), Gulshan, Dhaka-1212, Mahfuz,Abdullah Al, (2012) M. Com, FCA (06.09.17) (1476), Partner
+   City: Dhaka
+   Email: farhana_mahejabin@yahoo.com
+   Mobile: +8801912098360
+   Members: 0
+
+2. Das Chowdhury Dutta & Co.,Chartered Accountants
+   Address: nd Q, Jahan Building # 5 (2Floor), 74 Agrabad Commercial Area,, Chattogram – 4000, Bangladesh, Chy,Md. Naim Uddin, (2022), BBA, MBA V, ACA (19.09.22) (2196)
+   City: Chattogram
+   Email: dcdctg@outlook.com
+   Mobile: +8801713161022
+   Members: 0
+
+3. EMA Squared Chartered Accountants
+   Address: 110 High Street, Earls Colne, Nr. Colchester, Essex CO6 2QX,, United Kingdom, (M) +0044 7775 190 567, List of, F i r m s2025-2026, Rashid, Harun-Ur
+   City: -
+   Email: halim@emasquared.co.uk
+   Mobile: -
+   Members: 0
+
+4. Tarique & Associates Consulting
+   Address: Paramount Heights (Level-S & 1), 65l2lt Box culvert Road, Purana Paltan, Dhaka-1000., (E) tac.tariq2025@gmail,com,, List of, F i r m s2025-2026
+   City: Dhaka
+   Email: t.associatesc@gmail.com
+   Mobile: +8801730446600
+   Members: 0

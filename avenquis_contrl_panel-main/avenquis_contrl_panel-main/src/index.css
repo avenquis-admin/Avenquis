@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Newsreader', Georgia, Cambria, serif;
+  --font-fraunces: 'Fraunces', Georgia, serif;
+  --font-manrope: 'Manrope', 'Plus Jakarta Sans', sans-serif;
+  --font-display: 'Cinzel', serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --color-forest-950: #081a13;
+  --color-forest-900: #0f2e22;
+  --color-forest-850: #143d2d;
+  --color-forest-800: #1a4d39;
+  --color-forest-700: #23634a;
+  --color-forest-600: #2e7a5c;
+  --color-forest-100: #e2ede7;
+  --color-forest-50: #f0f6f3;
+
+  --color-gold-600: #9e803c;
+  --color-gold-500: #b8974a;
+  --color-gold-400: #c5a869;
+  --color-gold-300: #d8c38f;
+  --color-gold-100: #f5eedb;
+  --color-gold-50: #faf6ec;
+
+  --color-charcoal-950: #101314;
+  --color-charcoal-900: #15191b;
+  --color-charcoal-800: #1e2326;
+  --color-charcoal-700: #2a3135;
+  --color-charcoal-600: #3b444a;
+  --color-charcoal-500: #556067;
+  --color-charcoal-400: #7b8891;
+
+  --color-ivory-50: #fbf9f5;
+  --color-ivory-100: #f5f1e8;
+  --color-ivory-200: #ece5d6;
+  --color-ivory-300: #dfd6c3;
+  --color-ivory-400: #cfc3ac;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f7f5f0;
+  color: #191f1d;
+  overflow-x: hidden;
+}
+
+/* Custom crisp scrollbars for admin tables and sidebars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(20, 61, 45, 0.18);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(20, 61, 45, 0.35);
+}
+

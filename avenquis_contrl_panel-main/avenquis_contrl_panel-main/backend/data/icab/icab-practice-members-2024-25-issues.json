@@ -1,0 +1,629 @@
+{
+  "duplicateMembershipNo": [],
+  "duplicateIdentity": [
+    {
+      "memberName": "Hossain, Md Anwar",
+      "membershipNo": "778",
+      "membershipType": "ACA",
+      "firmName": "Ahmed Mashuque & Co.",
+      "firmAddress": "Navana Obaid Eternia, 28-29 Kakrail (Level 12 & 13), VIP Road, Dhaka-1217",
+      "mobile": "+8801711677410",
+      "email": "simanwar@hotmail.com"
+    },
+    {
+      "memberName": "Hossain, Md. Anwar",
+      "membershipNo": "2121",
+      "membershipType": "ACA",
+      "firmName": "AHMED MASHUQUE & CO.",
+      "firmAddress": "Finlay House (Level# 3), 11 Agrabad C/A Chattogram",
+      "mobile": "8801818233040",
+      "email": "anwar314161@gmail.com"
+    }
+  ],
+  "invalidMembershipType": [],
+  "suspiciousMembershipNo": [],
+  "suspiciousMemberName": [],
+  "suspiciousFirmName": [],
+  "missingFirmAddress": [
+    {
+      "memberName": "Moniruzzaman, Mohammad",
+      "membershipNo": "1143",
+      "membershipType": "FCA",
+      "firmName": "A. K. Azad & Co.",
+      "firmAddress": null,
+      "mobile": "+8801716785231",
+      "email": "mmzaman.akazad@gmail.com"
+    }
+  ],
+  "invalidMobile": [],
+  "missingMobile": [
+    {
+      "memberName": "Abedin, Md Jainul",
+      "membershipNo": "9",
+      "membershipType": "FCA",
+      "firmName": "M J Abedin & Co",
+      "firmAddress": "National Plaza (3rd floor), 109 Bir Uttam C.R. Datta Road, Dhaka-1205",
+      "mobile": null,
+      "email": "audit@mjabedin.com"
+    },
+    {
+      "memberName": "Huque, Kazi Aminul",
+      "membershipNo": "38",
+      "membershipType": "FCA",
+      "firmName": "Rahman Rahman Huq",
+      "firmAddress": "9 & 5, Mohakhali C/A, Dhaka-1212",
+      "mobile": null,
+      "email": "dhaka@kpmg.com"
+    },
+    {
+      "memberName": "Wahab, Abdul",
+      "membershipNo": "48",
+      "membershipType": "FCA",
+      "firmName": "A. Wahab & Co.",
+      "firmAddress": "House # 19, Road # 13C, Block # E, Banani, Dhaka-1213, Bangladesh",
+      "mobile": null,
+      "email": "wahab_co@agni.com"
+    },
+    {
+      "memberName": "Ahmed, Saleem Aurungzeb",
+      "membershipNo": "129",
+      "membershipType": "FCA",
+      "firmName": "Islam Aftab Kamrul & Co.",
+      "firmAddress": "BSCIC Electronics Complex (Level-5), Plot No. 1/1, Road-3, Avenue-4, Section-7, Mirpur, Dhaka-1216",
+      "mobile": null,
+      "email": "s12eem@outlook.com"
+    },
+    {
+      "memberName": "Nuruzzaman, Abul Khair Muhammod",
+      "membershipNo": "133",
+      "membershipType": "FCA",
+      "firmName": "Ahmed Zaker & Co.",
+      "firmAddress": "Green City Edge, Level-10, 89, Kakrail, Dhaka-1000",
+      "mobile": null,
+      "email": null
+    },
+    {
+      "memberName": "Ali, Md Mobarak",
+      "membershipNo": "134",
+      "membershipType": "FCA",
+      "firmName": "MARHK & CO.",
+      "firmAddress": "Radiant Classic (5th Floor), House # 32/34, Flat # 6B, Road # 6, Block-F, Banasree, Rampura, Dhaka-1219",
+      "mobile": null,
+      "email": "marhkco@gmail.com"
+    },
+    {
+      "memberName": "Hossain, lftekhar",
+      "membershipNo": "150",
+      "membershipType": "FCA",
+      "firmName": "ACNABIN",
+      "firmAddress": "BDBL Bhaban (Level-13 & 15), 12 Kawran Bazar C/A, Dhaka-1215, Bangladesh",
+      "mobile": null,
+      "email": "acnabin@bangla.net"
+    },
+    {
+      "memberName": "Mazumder, Chitta Ranjan",
+      "membershipNo": "178",
+      "membershipType": "FCA",
+      "firmName": "MABS & J Partners",
+      "firmAddress": "SMC Tower (Level-7), 33 Banani C/A, Road # 17, Dhaka-1213",
+      "mobile": null,
+      "email": "crm@mabsj.com"
+    },
+    {
+      "memberName": "Huda, Md Shamsul",
+      "membershipNo": "189",
+      "membershipType": "FCA",
+      "firmName": "MARHK & CO.",
+      "firmAddress": "Radiant Classic (5th Floor), House # 32/34, Flat # 6B, Road # 6, Block-F, Banasree, Rampura, Dhaka-1219",
+      "mobile": null,
+      "email": "marhkco@gmail.com"
+    },
+    {
+      "memberName": "Rahman, Md Mujibar",
+      "membershipNo": "208",
+      "membershipType": "FCA",
+      "firmName": "S. H. Khan & Co.",
+      "firmAddress": "Chand Mansion (6th floor), 66 Dilkusha C/A, Dhaka-1000",
+      "mobile": null,
+      "email": "shk_shkhan@hotmail.com"
+    },
+    {
+      "memberName": "Islam, Md Zohurul",
+      "membershipNo": "243",
+      "membershipType": "FCA",
+      "firmName": "MARHK & CO.",
+      "firmAddress": "Radiant Classic (5th Floor), House # 32/34, Flat # 6B, Road # 6, Block-F, Banasree, Rampura, Dhaka-1219",
+      "mobile": null,
+      "email": "zohurul1947@gmail.com"
+    },
+    {
+      "memberName": "Ali, Pear",
+      "membershipNo": "249",
+      "membershipType": "FCA",
+      "firmName": "S K Barua & Co.",
+      "firmAddress": "House # 184 (Ground Floor & Second Floor), Road # 02, New DOHS, Mohakhali, Dhaka-1206",
+      "mobile": null,
+      "email": "bpsk2008@gmail.com"
+    },
+    {
+      "memberName": "Alam, Md Manzoor-ul",
+      "membershipNo": "258",
+      "membershipType": "FCA",
+      "firmName": "M J Abedin & Co.",
+      "firmAddress": "National Plaza (3rd floor), 109 Bir Uttam C.R., Datta Road, Dhaka-1205",
+      "mobile": null,
+      "email": "manzoor.mja@gmail.com"
+    },
+    {
+      "memberName": "Ullah, Muhammad Rizwan",
+      "membershipNo": "270",
+      "membershipType": "FCA",
+      "firmName": "Islam Aftab Kamrul & Co.",
+      "firmAddress": "BSCIC Electronics Complex (Level-5), Plot # 1/1, Road-3, Avenue-4, Section-7, Mirpur, Dhaka-1216",
+      "mobile": null,
+      "email": "muhammadrizwanullah@gmail.com"
+    },
+    {
+      "memberName": "Islam, AKM Aftabul",
+      "membershipNo": "283",
+      "membershipType": "FCA",
+      "firmName": "ISLAM AFTAB KAMRUL & CO.",
+      "firmAddress": "Z-Tower (5th floor) Plot # 4, Road # 132, 54, Gulshan Avenue, Gulshan-1, Dhaka-1212, (O 880-2-8825013",
+      "mobile": null,
+      "email": "aftab@ioe.com.bd"
+    },
+    {
+      "memberName": "Rashid, Harun-Ur",
+      "membershipNo": "312",
+      "membershipType": "FCA",
+      "firmName": "Zoha Zaman Kabir Rashid & Co.",
+      "firmAddress": "The Savil, Level 7 & 8, Plot 6B, Block CWS (A), Road 32, Gulshan-1, Dhaka 1212",
+      "mobile": null,
+      "email": "harunfca@gmail.com"
+    },
+    {
+      "memberName": "Kasem, Akhtar Sohel",
+      "membershipNo": "328",
+      "membershipType": "FCA",
+      "firmName": "A. Qasem & Co.",
+      "firmAddress": "Gulshan Pink City (Level -7), Plot # 15, Road # 103, Gulshan, Avenue, Dhaka-1212",
+      "mobile": null,
+      "email": "sohel.kasem@aqcbd.com"
+    },
+    {
+      "memberName": "Chowdhury, Masih Malik",
+      "membershipNo": "337",
+      "membershipType": "FCA",
+      "firmName": "Masih Muhith Haque & Co.",
+      "firmAddress": "UTC Building (Level # 13 & 10), 8, Panthopoth, Dhaka-1215",
+      "mobile": null,
+      "email": "masih@masihmuhith.com"
+    },
+    {
+      "memberName": "Sarkar, Bijoy Krishna",
+      "membershipNo": "339",
+      "membershipType": "FCA",
+      "firmName": "Das Chowdhury Dutta & Co.",
+      "firmAddress": "Well Tower (Ist Floor), Flat - A/1, 12/A, Purana Paltan Line, Dhaka-1000",
+      "mobile": null,
+      "email": "dcddhaka@outlook.com"
+    },
+    {
+      "memberName": "Nayeem, Abu Sayed Mohammed",
+      "membershipNo": "353",
+      "membershipType": "FCA",
+      "firmName": "ACNABIN",
+      "firmAddress": "BDBL Bhaban (Level-13 & 15), 12 Kawran Bazar C/A, Dhaka-1215, Bangladesh",
+      "mobile": null,
+      "email": "acnabin@bangla.net"
+    },
+    {
+      "memberName": "Azad, Hafeez Muhammad Abul Kalam",
+      "membershipNo": "371",
+      "membershipType": "FCA",
+      "firmName": "A K Azad & Co.",
+      "firmAddress": "Al-Razi Complex (16th floor), 166-167 Shahid Syed Nazrul Islam Sarani, Purana Paltan, Dhaka",
+      "mobile": null,
+      "email": "azadnco@gmail.com"
+    },
+    {
+      "memberName": "Patwary, Md Delwar Hossain",
+      "membershipNo": "374",
+      "membershipType": "FCA",
+      "firmName": "Ahmed Zaker & Co.",
+      "firmAddress": "Green City Edge, Level-10, 89, Kakrail, Dhaka-1000",
+      "mobile": null,
+      "email": null
+    },
+    {
+      "memberName": "Monsury, Md. Nurul Huda",
+      "membershipNo": "395",
+      "membershipType": "FCA",
+      "firmName": "Nasir Mohammad & Co.",
+      "firmAddress": "CDA Building (5th Floor), Court Road, Chattogram",
+      "mobile": null,
+      "email": "nmcctg@gmail.com"
+    },
+    {
+      "memberName": "Bari, Abu Taher Mohammed Abdul",
+      "membershipNo": "423",
+      "membershipType": "FCA",
+      "firmName": "ACNABIN",
+      "firmAddress": "BDBL Bhaban (Level-13 & 15), 12 Kawran Bazar C/A, Dhaka-1215, Bangladesh",
+      "mobile": null,
+      "email": "acnabin@bangla.net"
+    },
+    {
+      "memberName": "Ahmed, Sultan",
+      "membershipNo": "429",
+      "membershipType": "FCA",
+      "firmName": "Ahmed Zaker & Co.",
+      "firmAddress": "Green City Edge, Level-10, 89, Kakrail, Dhaka-1000",
+      "mobile": null,
+      "email": "azcbangladesh@ahmed-zaker.com"
+    },
+    {
+      "memberName": "Islam, M Rabiul",
+      "membershipNo": "449",
+      "membershipType": "FCA",
+      "firmName": "Nurul Faruk Hasan & Co.",
+      "firmAddress": "(Deloitte in Bangladesh), Vertex Prominent (1st floor), GA-16/1, Mohakhali, Dhaka-1212",
+      "mobile": null,
+      "email": "pt3618@yahoo.com"
+    },
+    {
+      "memberName": "Hassan, M Munjurul",
+      "membershipNo": "450",
+      "membershipType": "FCA",
+      "firmName": "Hoda Vasi Chowdhury & Co.",
+      "firmAddress": "BTMC Bhaban (8th floor), 7-9, Kawran Bazar C/A, Dhaka-1215",
+      "mobile": null,
+      "email": "hassan@hodavasi.com"
+    },
+    {
+      "memberName": "Ashfaq, Ali",
+      "membershipNo": "509",
+      "membershipType": "FCA",
+      "firmName": "Rahman Rahman Huq",
+      "firmAddress": "9 & 5, Mohakhali C/A, Dhaka-1212",
+      "mobile": null,
+      "email": "aliashfaq@kpmg.com"
+    },
+    {
+      "memberName": "Abedin, Kamrul",
+      "membershipNo": "527",
+      "membershipType": "FCA",
+      "firmName": "M J Abedin & Co.",
+      "firmAddress": "National Plaza (3rd floor), 109 Bir Uttam C.R. Datta Road, Dhaka-1205",
+      "mobile": null,
+      "email": "audit@mjabedin.com"
+    },
+    {
+      "memberName": "Mahmood, Hasan",
+      "membershipNo": "564",
+      "membershipType": "FCA",
+      "firmName": "M J Abedin & Co.",
+      "firmAddress": "National Plaza (3rd floor), 109 Bir Uttam C.R. Datta Road, Dhaka-1205",
+      "mobile": null,
+      "email": "audit@mjabedin.com"
+    },
+    {
+      "memberName": "Rahman, SM Atiar",
+      "membershipNo": "574",
+      "membershipType": "FCA",
+      "firmName": "Masih Muhith Haque & Co.",
+      "firmAddress": "UTC Building (Level # 13 & 10), 8, Panthopoth, Dhaka-1215",
+      "mobile": null,
+      "email": "atiar@masihmuhith.com"
+    },
+    {
+      "memberName": "Khan, Adeeb Hossain",
+      "membershipNo": "652",
+      "membershipType": "FCA",
+      "firmName": "Rahman Rahman Huq",
+      "firmAddress": "9 & 5, Mohakhali C/A, Dhaka-1212",
+      "mobile": null,
+      "email": "adeebkhan@kpmg.com"
+    },
+    {
+      "memberName": "Hossain, Md Moazzem",
+      "membershipNo": "657",
+      "membershipType": "FCA",
+      "firmName": "M M Hossain & Co.",
+      "firmAddress": "Mouchak Tower (4th floor), 83/B New Circular Road, Dhaka-1217",
+      "mobile": null,
+      "email": "mmhossain5@gmail.com"
+    },
+    {
+      "memberName": "Hossain, AKM Anwar",
+      "membershipNo": "685",
+      "membershipType": "FCA",
+      "firmName": "Rahman Kashem & Co.",
+      "firmAddress": "City Heart Bhaban (3rd floor), 67 Naya Paltan, Dhaka-1000",
+      "mobile": null,
+      "email": "raha98@gmail.com"
+    },
+    {
+      "memberName": "Chowdhury, Mohd. Aslam",
+      "membershipNo": "708",
+      "membershipType": "FCA",
+      "firmName": "M A Mallik & Co.",
+      "firmAddress": "Aziz Chamber, (2nd floor) 6 Jubilee Road",
+      "mobile": null,
+      "email": null
+    },
+    {
+      "memberName": "Siddiqui, Seema Halim",
+      "membershipNo": "736",
+      "membershipType": "ACA",
+      "firmName": "Malek Siddique Wali",
+      "firmAddress": "9-G, Motijheel Com.Area, Dhaka-1000",
+      "mobile": null,
+      "email": "seema@reddysiddiqui.com"
+    },
+    {
+      "memberName": "Mohammed, Neaz",
+      "membershipNo": "763",
+      "membershipType": "FCA",
+      "firmName": "Howladar Yunus & Co.",
+      "firmAddress": "House # 14 (Level-5), Road # 16A, Gulshan-1, Dhaka-1212",
+      "mobile": null,
+      "email": "neaz.mohammed@bd.gt.com"
+    },
+    {
+      "memberName": "Rahman, Muhammed Moshiur",
+      "membershipNo": "874",
+      "membershipType": "FCA",
+      "firmName": "Islam Jahid & Co.",
+      "firmAddress": "Hasan Plaza (5th & 10th Floor), (ATN News Building), 53 Kawran Bazar C/A, Dhaka-1215",
+      "mobile": null,
+      "email": "mr797300@gmail.com"
+    },
+    {
+      "memberName": "Sarder, Md. Abdul Haque",
+      "membershipNo": "878",
+      "membershipType": "FCA",
+      "firmName": "Sarder Murshed & Co.",
+      "firmAddress": "Flat # 3D, House # 15, Road # 06, Nikunjo-02, Dhaka-1229",
+      "mobile": null,
+      "email": "a_h_sarder@yahoo.co.uk"
+    },
+    {
+      "memberName": "Sethna, Zenaida",
+      "membershipNo": "927",
+      "membershipType": "ACA",
+      "firmName": "OCTOKHAN",
+      "firmAddress": "House # 105 (Level-4), Northern Road, Baridhara DOHS, Dhaka-1212",
+      "mobile": null,
+      "email": null
+    },
+    {
+      "memberName": "Karim, Md. Mominul",
+      "membershipNo": "934",
+      "membershipType": "FCA",
+      "firmName": "ACNABIN",
+      "firmAddress": "Jahan Building No.7 (1st Floor, North Side), 59 Agrabad C/A, Chattogram-4100, Bangladesh",
+      "mobile": null,
+      "email": "momin@acnabin-bd.com"
+    },
+    {
+      "memberName": "Mohammed, Razdwan Raquibuddin",
+      "membershipNo": "995",
+      "membershipType": "FCA",
+      "firmName": "Nasir Mohammad & Co.",
+      "firmAddress": "CDA Building (5th Floor), Court Road, Chattogram,",
+      "mobile": null,
+      "email": "nmcctg@gmail.com"
+    },
+    {
+      "memberName": "Hasan, Muhammad Mehedi",
+      "membershipNo": "1000",
+      "membershipType": "FCA",
+      "firmName": "Rahman Rahman Huq",
+      "firmAddress": "9 & 5, Mohakhali C/A, Dhaka-1212",
+      "mobile": null,
+      "email": "mehedihasan@kpmg.com"
+    },
+    {
+      "memberName": "Rahman, Mohammed Hafizour",
+      "membershipNo": "1012",
+      "membershipType": "FCA",
+      "firmName": "Chowdhury Hossain Rashid & Co.",
+      "firmAddress": "MSL Building, House # 1267, Vatara Main Road, Vatara, Dhaka-1212",
+      "mobile": null,
+      "email": "mhrmitu@gmail.com"
+    },
+    {
+      "memberName": "Mahmud, Hanif",
+      "membershipNo": "1094",
+      "membershipType": "FCA",
+      "firmName": "M J Abedin & Co.",
+      "firmAddress": "National Plaza (3rd floor), 109 Bir Uttam C.R. Datta Road, Dhaka-1205",
+      "mobile": null,
+      "email": "audit@mjabedin.com"
+    },
+    {
+      "memberName": "Hoque, Muhammad Aminul",
+      "membershipNo": "1129",
+      "membershipType": "FCA",
+      "firmName": "ACNABIN",
+      "firmAddress": "BDBL Bhaban (Level-13 & 15), 12 Kawran Bazar C/A, Dhaka-1215, Bangladesh",
+      "mobile": null,
+      "email": "amin@acnabin-bd.com"
+    },
+    {
+      "memberName": "Choudhury, Ali Amjad",
+      "membershipNo": "1242",
+      "membershipType": "FCA",
+      "firmName": "J U Ahmed & Co.",
+      "firmAddress": "House No. 170 (1st & 4th Floor), Lane-3, New DOHS, Mohakhali, Dhaka 1206, Bangladesh",
+      "mobile": null,
+      "email": "amjadchoudhury@gmail.com"
+    },
+    {
+      "memberName": "Talukder, Muhammad Shajedul Hoque",
+      "membershipNo": "1244",
+      "membershipType": "FCA",
+      "firmName": "MABS & J Partners",
+      "firmAddress": "SMC Tower (Level-7), Road # 17, 33 Banani C/A, Dhaka-1213",
+      "mobile": null,
+      "email": "shtalukder@mabsj.com"
+    },
+    {
+      "memberName": "Islam, Md. Tazul",
+      "membershipNo": "1296",
+      "membershipType": "FCA",
+      "firmName": "Rahman Rahman Huq",
+      "firmAddress": "9 & 5, Mohakhali C/A, Dhaka-1212",
+      "mobile": null,
+      "email": "tislam@kpmg.com"
+    },
+    {
+      "memberName": "Rashid, Halimur",
+      "membershipNo": "1325",
+      "membershipType": "ACA",
+      "firmName": "EMA Squared",
+      "firmAddress": "110 High Street, Earls Colne, Nr. Colchester, Essex CO6 2QX, United Kingdom",
+      "mobile": null,
+      "email": "halim@emasquared.co.uk"
+    },
+    {
+      "memberName": "Rashid, Tarek",
+      "membershipNo": "1363",
+      "membershipType": "FCA",
+      "firmName": "Zoha Zaman Kabir Rashid & Co.",
+      "firmAddress": "The Savil, Level 7 & 8, Plot 6B, Block CWS (A), Road 32, Gulshan-1, Dhaka 1212",
+      "mobile": null,
+      "email": "tarekrashid@hotmail.com"
+    },
+    {
+      "memberName": "Siddique, Md. Nazmul Hussain",
+      "membershipNo": "1427",
+      "membershipType": "FCA",
+      "firmName": "Masih Muhith Haque & Co.",
+      "firmAddress": "Al Madina Tower (8th Floor), 88/89 Agrabad C/A, Chattogram",
+      "mobile": null,
+      "email": "nazmul@masihmuhith.com"
+    },
+    {
+      "memberName": "Hoque, Evana",
+      "membershipNo": "1459",
+      "membershipType": "FCA",
+      "firmName": "FAMES & R",
+      "firmAddress": "Hossain Tower (11th floor), 116, Naya Paltan (Box Culvert Road), Bir Protik Gazi Golam Dostogir Road, Dhaka-1000",
+      "mobile": null,
+      "email": "dishaarif4@gmail.com"
+    },
+    {
+      "memberName": "Ali, Ashraf-Uz-Zaman",
+      "membershipNo": "1518",
+      "membershipType": "FCA",
+      "firmName": "Rahman Rahman Huq",
+      "firmAddress": "9 & 5, Mohakhali C/A, Dhaka-1212",
+      "mobile": null,
+      "email": "azali@kpmg.com"
+    },
+    {
+      "memberName": "Reza, ATM Shamim",
+      "membershipNo": "1766",
+      "membershipType": "FCA",
+      "firmName": "A. Qasem & Co.",
+      "firmAddress": "Gulshan Pink City (Level-7), Plot # 15, Road # 103, Gulshan, Dhaka-1212",
+      "mobile": null,
+      "email": "aqasem@aqcbd.com"
+    },
+    {
+      "memberName": "Islam, Md. Saiful",
+      "membershipNo": "1853",
+      "membershipType": "FCA",
+      "firmName": "Masih Muhith Haque & Co.",
+      "firmAddress": "UTC Building (Level # 13 & 10), 8 Panthopoth, Dhaka-1215",
+      "mobile": null,
+      "email": "saiful@masihmuhith.com"
+    }
+  ],
+  "invalidEmail": [],
+  "missingEmail": [
+    {
+      "memberName": "Nuruzzaman, Abul Khair Muhammod",
+      "membershipNo": "133",
+      "membershipType": "FCA",
+      "firmName": "Ahmed Zaker & Co.",
+      "firmAddress": "Green City Edge, Level-10, 89, Kakrail, Dhaka-1000",
+      "mobile": null,
+      "email": null
+    },
+    {
+      "memberName": "Patwary, Md Delwar Hossain",
+      "membershipNo": "374",
+      "membershipType": "FCA",
+      "firmName": "Ahmed Zaker & Co.",
+      "firmAddress": "Green City Edge, Level-10, 89, Kakrail, Dhaka-1000",
+      "mobile": null,
+      "email": null
+    },
+    {
+      "memberName": "Chowdhury, Narayan",
+      "membershipNo": "455",
+      "membershipType": "FCA",
+      "firmName": "Chowdhury Bhattacharjee & Co.",
+      "firmAddress": "Niaz Manzil (1st floor), 922 Jubilee Road, Chattogram",
+      "mobile": "8801714283400",
+      "email": null
+    },
+    {
+      "memberName": "Sarker, Md Habibur Rahman",
+      "membershipNo": "470",
+      "membershipType": "FCA",
+      "firmName": "Malek Siddiqui Wali",
+      "firmAddress": "9-G, Motijheel C/A, 2nd Floor, Dhaka-1000",
+      "mobile": "01949822529",
+      "email": null
+    },
+    {
+      "memberName": "Khan, Azadur Rahman",
+      "membershipNo": "525",
+      "membershipType": "FCA",
+      "firmName": "Ahmed Mashuque & Co.",
+      "firmAddress": "Navana Obaid Eternia (Level # 13-14), 28-29, Kakrail, VIP Road, Dhaka 1000",
+      "mobile": "8801819231802",
+      "email": null
+    },
+    {
+      "memberName": "Talukder, Netai Chand",
+      "membershipNo": "706",
+      "membershipType": "FCA",
+      "firmName": "A Matin & Co.",
+      "firmAddress": "60/2 (New) Naya Paltan, (1st floor), Dhaka-1000",
+      "mobile": "8801940999352",
+      "email": null
+    },
+    {
+      "memberName": "Chowdhury, Mohd. Aslam",
+      "membershipNo": "708",
+      "membershipType": "FCA",
+      "firmName": "M A Mallik & Co.",
+      "firmAddress": "Aziz Chamber, (2nd floor) 6 Jubilee Road",
+      "mobile": null,
+      "email": null
+    },
+    {
+      "memberName": "Sethna, Zenaida",
+      "membershipNo": "927",
+      "membershipType": "ACA",
+      "firmName": "OCTOKHAN",
+      "firmAddress": "House # 105 (Level-4), Northern Road, Baridhara DOHS, Dhaka-1212",
+      "mobile": null,
+      "email": null
+    },
+    {
+      "memberName": "Ahmed, Amanat",
+      "membershipNo": "1577",
+      "membershipType": "FCA",
+      "firmName": "Rahman Rahman Huq",
+      "firmAddress": "9 Mohakhali C/A, Dhaka-1212",
+      "mobile": "8801977551777",
+      "email": null
+    }
+  ]
+}
